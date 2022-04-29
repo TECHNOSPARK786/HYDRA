@@ -1,5 +1,5 @@
 build:
   docker:
-      worker: /BOT/Dockerfile
+      worker: /HYDRA/Dockerfile
 run:
    worker: npm start
