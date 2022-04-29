@@ -3,9 +3,9 @@
     "description": "HYDRA is the Modified Version of WhatsAsena, Made By @ANUSER1 with Baileys.",
     "logo": "https://i.imgur.com/880CEdp.jpeg",
     "keywords": ["whatsapp", "userbot", "HYDRA", "WhatsAsena", "hydra", "bot", "ai"],
-    "repository": "https://github.com/ANU-SER/BOT",
-    "website":   "https://github.com/ANU-SER/BOT",
-    "success_url": "https://github.com/ANU-SER/BOT",
+    "repository": "https://github.com/ANU-SER/HYDRA",
+    "website":   "https://github.com/ANU-SER/HYDRA",
+    "success_url": "https://github.com/ANU-SER/HYDRA",
     "stack": "container",
     "env": {
         "ANUSER_SESSION": {
